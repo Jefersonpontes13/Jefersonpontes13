@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Jeferson Pontes</h1>
-<h3 align="center">Discente de Engenharia de Computação - UFC || Data Driven Culture</h3>
+<h3 align="center">Engenheiro de Computação - UFC || Data Driven Culture</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcojefersonpontes" alt="fcojefersonpontes" /></a> </p>
 
